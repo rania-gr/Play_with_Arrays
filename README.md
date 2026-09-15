@@ -13,3 +13,12 @@ Part 4 :
 the program removes all zeros
 Part 5:
 the program moves all the negative numbers to the left side!
+*
+what I used :
+_arrays T[i]
+_loops (for)
+_if/else statement 
+_swap method 
+_logical and arithmetic operations 
+
+that's all! 
